@@ -6,7 +6,7 @@ Mittels des Plugins können aber alle Thesauri eingebunden werden, sofern sie be
 ## Funktionalität:
 - Es muss ein Layer sowie ein Attributfeld ausgewählt werden, für das die ausgewählten Begriffe übernommen werden
 - Mit "Begriffe in Attrbuttabelle laden" wird folgendes ausgelöst:
-	1. der Widget-Type des ausgewählten Attributfeldes wird auf "Value Map" umgestellt
+ 1. der Widget-Type des ausgewählten Attributfeldes wird auf "Value Map" umgestellt
 	2. die ausgewählten Begriffe werden sowohl als Value wie auch als Description dem Feld hinzugefügt
 	3. bereits bestehende Begriffe werden dabei nicht verändert oder gelöscht
 - Begriffe können folgendermassen ausgewählt werden:
