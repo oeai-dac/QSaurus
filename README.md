@@ -13,6 +13,7 @@ Mittels des Plugins können aber alle Thesauri eingebunden werden, sofern sie be
  1. durch Ctrl können einzelne oder mehrere Begriffe separat ausgewählt werden
  2. durch Shift können Bereiche zwischen zwei Begriffen ausgewählt werden
  3. durch das Aufziehen eines "Fensters" können alle Begriffe im "Fenster" ausgewählt werden
+
 Eine rekursive Auswahl ist momentan nicht möglich, durch "Alle Ebenen ausklappen" und z.B. die Fensterauswahl können aber viele Begriffe einfach übernommen werden
 - Bei Eingabe einer Zeichenkombination oder eines ganzen Suchbegriffes, wird diese Kombination/dieser Begriff hervorgehoben und alle betroffenen Ebenen ausgeklappt
 - Voreingestellte Thesauri:
