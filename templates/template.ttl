@@ -1,0 +1,20 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept1> a skos:Concept ;
+    skos:prefLabel "parent"@de.
+	
+<https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept2> a skos:Concept ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept1> ;
+    skos:prefLabel "child1"@de.
+
+<https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept3> a skos:Concept ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept2> ;
+    skos:prefLabel "child1.1"@de.
+
+<https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept4> a skos:Concept ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept2> ;
+    skos:prefLabel "child1.2"@de.
+
+<https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept5> a skos:Concept ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/oeai-materials/concept1> ;
+    skos:prefLabel "child2"@de.
