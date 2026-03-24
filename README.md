@@ -49,6 +49,7 @@ Da der Widget-Type und somit auch die zugehörigen bzw. auswählbaren Begriffe i
 -------------------------
 
 #Englisch
+
 The plugin is designed to facilitate the integration of controlled vocabularies into QGIS. It was developed specifically for the Austrian Archaeological Institute, so these thesauri can be enabled via the checkboxes.
 However, the plugin can be used to integrate any thesauri, provided they meet certain requirements.  
 
